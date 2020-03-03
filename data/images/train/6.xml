@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>15.jpg</filename>
-	<path>/home/pranshu/Documents/tensorFlow/object_detect_model/object_detection_demo/data/images/train/15.jpg</path>
+	<filename>6.jpg</filename>
+	<path>/home/pranshu/Documents/tensorFlow/object_detect_model/object_detection_demo/data/images/train/6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,25 @@
 	<object>
 		<name>onion_fried</name>
 		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>222</ymin>
+			<xmax>92</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>onion_golden</name>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>36</xmin>
-			<ymin>669</ymin>
-			<xmax>78</xmax>
-			<ymax>764</ymax>
+			<xmin>28</xmin>
+			<ymin>573</ymin>
+			<xmax>146</xmax>
+			<ymax>793</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +41,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>143</xmin>
-			<ymin>384</ymin>
-			<xmax>195</xmax>
-			<ymax>463</ymax>
+			<xmin>354</xmin>
+			<ymin>367</ymin>
+			<xmax>474</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>onion_golden</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>1</ymin>
+			<xmax>448</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>onion_golden</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>498</xmin>
+			<ymin>193</ymin>
+			<xmax>700</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>onion_golden</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>478</xmin>
+			<ymin>469</ymin>
+			<xmax>577</xmax>
+			<ymax>638</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,178 +89,118 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>406</xmin>
-			<ymin>79</ymin>
-			<xmax>492</xmax>
-			<ymax>285</ymax>
+			<xmin>612</xmin>
+			<ymin>698</ymin>
+			<xmax>692</xmax>
+			<ymax>858</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>onion_golden</name>
+		<name>onion_fried</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>284</xmin>
-			<ymin>310</ymin>
-			<xmax>384</xmax>
-			<ymax>511</ymax>
+			<xmin>381</xmin>
+			<ymin>787</ymin>
+			<xmax>507</xmax>
+			<ymax>975</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>onion_golden</name>
+		<name>onion_fried</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>66</xmin>
-			<ymin>257</ymin>
-			<xmax>221</xmax>
-			<ymax>382</ymax>
+			<xmin>139</xmin>
+			<ymin>761</ymin>
+			<xmax>293</xmax>
+			<ymax>826</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>onion_golden</name>
+		<name>onion_fried</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>142</xmin>
+			<xmin>218</xmin>
+			<ymin>579</ymin>
+			<xmax>375</xmax>
+			<ymax>716</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>onion_fried</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>551</xmin>
+			<ymin>863</ymin>
+			<xmax>664</xmax>
+			<ymax>1000</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>onion_fried</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>258</ymin>
+			<xmax>281</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>onion_fried</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>252</ymin>
+			<xmax>459</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>onion_fried</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>290</ymin>
+			<xmax>168</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>onion_fried</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>540</ymin>
+			<xmax>359</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>onion_fried</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
 			<ymin>584</ymin>
-			<xmax>272</xmax>
-			<ymax>820</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>onion_golden</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>252</xmin>
-			<ymin>766</ymin>
-			<xmax>379</xmax>
-			<ymax>819</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>onion_golden</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>375</xmin>
-			<ymin>738</ymin>
-			<xmax>463</xmax>
-			<ymax>890</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>onion_fried</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>506</xmin>
-			<ymin>825</ymin>
-			<xmax>571</xmax>
-			<ymax>916</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>onion_fried</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>440</xmin>
-			<ymin>452</ymin>
-			<xmax>572</xmax>
-			<ymax>576</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>onion_golden</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>545</xmin>
-			<ymin>284</ymin>
-			<xmax>700</xmax>
-			<ymax>672</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>onion_golden</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>406</xmin>
-			<ymin>305</ymin>
-			<xmax>540</xmax>
-			<ymax>444</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>onion_golden</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>459</xmin>
-			<ymin>673</ymin>
-			<xmax>609</xmax>
-			<ymax>819</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>onion_golden</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>580</xmin>
-			<ymin>810</ymin>
-			<xmax>700</xmax>
-			<ymax>981</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>onion_golden</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>306</xmin>
-			<ymin>560</ymin>
-			<xmax>425</xmax>
-			<ymax>617</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>onion_golden</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>324</xmin>
-			<ymin>607</ymin>
-			<xmax>456</xmax>
-			<ymax>723</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>onion_golden</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>63</xmin>
-			<ymin>414</ymin>
-			<xmax>113</xmax>
-			<ymax>528</ymax>
+			<xmax>478</xmax>
+			<ymax>787</ymax>
 		</bndbox>
 	</object>
 </annotation>
