@@ -1,0 +1,26 @@
+<annotation>
+  <folder>stirrer_detect</folder>
+  <filename>125degree</filename>
+  <path>/home/afro/images_adb/stirrer_detect/125degree.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>224</width>
+    <height>224</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>stirrer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>76</ymin>
+      <xmax>70</xmax>
+      <ymax>152</ymax>
+    </bndbox>
+  </object>
+</annotation>

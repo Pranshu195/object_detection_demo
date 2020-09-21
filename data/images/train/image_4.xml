@@ -1,0 +1,26 @@
+<annotation>
+  <folder>stirrer_detect</folder>
+  <filename>image_4</filename>
+  <path>/home/afro/images_adb/stirrer_detect/image_4.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>400</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>stirrer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>148</xmin>
+      <ymin>191</ymin>
+      <xmax>336</xmax>
+      <ymax>398</ymax>
+    </bndbox>
+  </object>
+</annotation>
